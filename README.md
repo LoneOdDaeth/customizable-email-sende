@@ -105,7 +105,6 @@ This Python script allows you to send emails with customizable sender and receiv
 
 Here’s an example of what your configuration might look like:
     
-    ```bash
     sender_email = "custom_sender@example.com"  # The email address you want to send the email from
     receiver_email = "receiver_email@example.com"
     smtp_server = "smtp.gmail.com"
